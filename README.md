@@ -1,4 +1,5 @@
-# fundraising-Mr.-Ahn
+# YR games list -
+
 
 ## 안이령에게 모금해주세요
 버튼을 눌러 돈을 모으고 안이령에게 기부하세요.
